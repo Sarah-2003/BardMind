@@ -1,6 +1,7 @@
 # BardMind
 
 ![Shakespeare Teaching](assets/shakespeare.jpg)
+
 *Shakespeare teaching - A glimpse into classical literature meets modern AI*
 
 ## 📚 About the Project
